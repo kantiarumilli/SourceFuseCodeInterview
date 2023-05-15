@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AcmeCorp.ContactInfo.API/AcmeCorp.ContactInfo.Abstract/bin
+/AcmeCorp.ContactInfo.API/AcmeCorp.ContactInfo.Abstract/obj
+/AcmeCorp.ContactInfo.API/AcmeCorp.ContactInfo.API/bin
+/AcmeCorp.ContactInfo.API/AcmeCorp.ContactInfo.API/obj
+/AcmeCorp.ContactInfo.API/AcmeCorp.ContactInfo.API.Tests/bin
+/AcmeCorp.ContactInfo.API/AcmeCorp.ContactInfo.API.Tests/obj
+/AcmeCorp.ContactInfo.API/AcmeCorp.ContactInfo.Entities/bin
+/AcmeCorp.ContactInfo.API/AcmeCorp.ContactInfo.Entities/obj
+/AcmeCorp.ContactInfo.API/AcmeCorp.ContactInfo.Facade/bin
+/AcmeCorp.ContactInfo.API/AcmeCorp.ContactInfo.Facade/obj
+/AcmeCorp.ContactInfo.API/AcmeCorp.ContactInfo.Facade.Tests/bin
+/AcmeCorp.ContactInfo.API/AcmeCorp.ContactInfo.Facade.Tests/obj
+/AcmeCorp.ContactInfo.API/AcmeCorp.ContactInfo.Services/bin
+/AcmeCorp.ContactInfo.API/AcmeCorp.ContactInfo.Services/obj
+/AcmeCorp.ContactInfo.API/.vs/AcmeCorp.ContactInfo.API/v17/TestStore/0
+/AcmeCorp.ContactInfo.API/.vs
